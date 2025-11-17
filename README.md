@@ -28,7 +28,7 @@ Tenho experiência prática com **SQL**, **Excel Avançado**, **Power BI**, **ET
 
 ## 🚀 Projetos de Portfólio
 
-### 📊 [Análise de Dados – Finanças (Power BI)]()
+### 📊 [Análise de Dados – Finanças (Power BI)](https://www.linkedin.com/posts/hyago-carvalho-14a525235_powerbi-businessintelligence-analisededados-activity-7376969982095634433-XDcZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADqh0IoBuysMcZ9rj-Frx7jQz1JOWSqd9xQ)
 - Dashboard com indicadores de **Receitas, Despesas e Margem de Lucro**.  
 - Tratamento de dados no **Power Query (Linguagem M)** e criação de medidas em **DAX**.  
 - Identificação de segmentos mais lucrativos para apoiar o **planejamento estratégico**.
