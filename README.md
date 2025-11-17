@@ -35,35 +35,35 @@ Tenho experiência prática com **SQL**, **Excel Avançado**, **Power BI**, **ET
 
 ---
 
-### 🏪 [Análise Comercial – Performance de Vendas (Power BI)]()
+### 🏪 [Análise Comercial – Performance de Vendas (Power BI)](https://www.linkedin.com/posts/hyago-carvalho-14a525235_powerbi-businessintelligence-analisededados-activity-7371899588602949632-Dktk?utm_source=share&utm_medium=member_desktop&rcm=ACoAADqh0IoBuysMcZ9rj-Frx7jQz1JOWSqd9xQ)
 - Análise de **volume de vendas, ticket médio, taxa de conversão e lucratividade**.  
 - Visualizações para medir **produtividade da equipe e satisfação do cliente**.  
 - Insights sobre regiões e categorias com melhor desempenho.
 
 ---
 
-### 🧑‍💼 [Análise de Recursos Humanos (Power BI)]()
+### 🧑‍💼 [Análise de Recursos Humanos (Power BI)](https://www.linkedin.com/posts/hyago-carvalho-14a525235_powerbi-analisededados-recursoshumanos-activity-7372275601144967168-Cuk6?utm_source=share&utm_medium=member_desktop&rcm=ACoAADqh0IoBuysMcZ9rj-Frx7jQz1JOWSqd9xQ)
 - Criação de medidas em **DAX** para métricas como média salarial, promoções e engajamento.  
 - Transformações de dados e criação de colunas condicionais no **Power Query**.  
 - Dashboard voltado à **gestão de pessoas e análise de desempenho**.
 
 ---
 
-### 🚚 [Análise Logística (Power BI)]()
+### 🚚 [Análise Logística (Power BI)](https://www.linkedin.com/posts/hyago-carvalho-14a525235_powerbi-analisededados-logaedstica-activity-7374803359381389312-r5R-?utm_source=share&utm_medium=member_desktop&rcm=ACoAADqh0IoBuysMcZ9rj-Frx7jQz1JOWSqd9xQ)
 - Revisão completa de um dashboard com erros de visualização e lógica.  
 - Correção de medidas, filtros e gráficos, criando uma visão clara da **performance de entregas**.  
 - Aprendizado em **boas práticas de visualização de dados**.
 
 ---
 
-### 💳 [Análise de Marketing (Power BI)]()
+### 💳 [Análise de Marketing (Power BI)](https://www.linkedin.com/posts/hyago-carvalho-14a525235_powerbi-datascience-businessintelligence-activity-7370519294205595648-9wa3?utm_source=share&utm_medium=member_desktop&rcm=ACoAADqh0IoBuysMcZ9rj-Frx7jQz1JOWSqd9xQ)
 - Aplicação de **DAX (SUMX)** e tratamento de outliers.  
 - Identificação de **padrões de consumo e perfil de clientes**.  
 - Sugestões estratégicas baseadas em comportamento de compra.
 
 ---
 
-### 🧩 [Análise Exploratória com Linguagem M e Feature Engineering (Power BI)]()
+### 🧩 [Análise Exploratória com Linguagem M e Feature Engineering (Power BI)](https://www.linkedin.com/posts/hyago-carvalho-14a525235_powerbi-linguagemm-featureengineering-activity-7382061753011949568-9owZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADqh0IoBuysMcZ9rj-Frx7jQz1JOWSqd9xQ)
 - Correção de inconsistências, substituição de valores e renomeação de colunas.  
 - Criação de colunas derivadas e transformação logarítmica de variáveis.  
 - Separação de **clientes negativados** e análise de comportamento financeiro.
