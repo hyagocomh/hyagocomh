@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Hyago Carvalho  
 
 🎯 **Analista de Dados** formado em **Análise e Desenvolvimento de Sistemas**, transformando dados em **insights estratégicos**.  
-Tenho experiência prática com **SQL**, **Excel Avançado**, **Power BI**, **ETL** e **Linguagem M**, e estou evoluindo meus conhecimentos em **Python para análise de dados**.  
+Tenho experiência prática com **SQL**, **Excel Avançado**, **Power BI**, **ETL** e **Linguagem M**, e **Python para análise de dados**.  
 
 ---
 
