@@ -28,6 +28,8 @@ Tenho experiência prática com **SQL**, **Excel Avançado**, **Power BI**, **ET
 
 ---
 
+## 🚀 Projetos de Portfólio
+
 ### 🧾 [Relatório de Negócios – Black Friday (SQL + Google Sheets)](https://abrir.link/LlDIh)
 - Projeto desenvolvido durante a **Formação SQL da Alura**.  
 - Criação de **consultas SQL** para comparar médias de vendas entre anos e medir o **crescimento percentual** durante a Black Friday.  
@@ -36,8 +38,6 @@ Tenho experiência prática com **SQL**, **Excel Avançado**, **Power BI**, **ET
 - Demonstração prática do uso de **CTEs (WITH)**, funções de agregação e cálculos de variação percentual.  
 
 ---
-
-## 🚀 Projetos de Portfólio
 
 ### 📊 [Análise de Dados – Finanças (Power BI)](https://www.linkedin.com/posts/hyago-carvalho-14a525235_powerbi-businessintelligence-analisededados-activity-7376969982095634433-XDcZ?utm_source=share&utm_medium=member_desktop)
 - Dashboard com indicadores de **Receitas, Despesas e Margem de Lucro**.  
