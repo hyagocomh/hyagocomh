@@ -13,7 +13,7 @@ Tenho experiência prática com **SQL**, **Excel Avançado**, **Power BI**, **ET
 - ⚙️ **ETL / Power Query (Linguagem M)** → Limpeza, transformação e modelagem de dados.  
 - 🧠 **Feature Engineering** → Criação de novas variáveis e tratamento de dados para análises mais completas.  
 - 🧮 **Estatística Básica** → Análise exploratória, identificação de outliers e medidas de tendência central.  
-- 🐍 **Python (em aprendizado)** → Foco em bibliotecas de análise de dados como Pandas e Matplotlib.  
+- 🐍 **Python** → Foco em bibliotecas de análise de dados como Pandas e Matplotlib.  
 
 ---
 
