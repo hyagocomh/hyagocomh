@@ -23,7 +23,8 @@ Tenho experiência prática com **SQL**, **Excel Avançado**, **Power BI**, **ET
 - 🎓 **Análise e Desenvolvimento de Sistemas** – Universidade Mário Pontes Jucá  
 - 🧩 **Excel para Análise de Dados** – Preditiva  
 - 📊 **Microsoft Power BI Para Business Intelligence e Data Science** – DSA (Data Science Academy)  
-- 🧮 **Formação SQL para Análise de Dados** – Alura  
+- 🧮 **Formação SQL para Análise de Dados** – Alura
+- 🐍 **Formação Python para Data Science** - Alura
 - 💬 **Inglês** – KNN  
 
 ---
