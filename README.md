@@ -19,24 +19,31 @@ Tenho experiência prática com **SQL**, **Excel Avançado**, **Power BI**, **ET
 
 ## 📚 Formação e Cursos
 
-- 🎓 **Pós-graduação em Análise de Dados** – FIAP *(em andamento)*  
+- 🎓 **Pós-graduação em Data Analytics** – FIAP *(em andamento)*  
 - 🎓 **Análise e Desenvolvimento de Sistemas** – Universidade Mário Pontes Jucá  
 - 🧩 **Excel para Análise de Dados** – Preditiva  
 - 📊 **Microsoft Power BI Para Business Intelligence e Data Science** – DSA (Data Science Academy)  
-- 🧮 **Formação SQL para Análise de Dados** – Alura
-- 🐍 **Formação Python para Data Science** - Alura
+- 🧮 **Formação SQL para Análise de Dados** – Alura  
+- 🐍 **Formação Python para Data Science** – Alura  
 - 💬 **Inglês** – KNN  
 
 ---
 
 ## 🚀 Projetos de Portfólio
 
+### 🏠 [Projeto Imobiliária com Pandas](https://battle-helicona-628.notion.site/Projeto-de-An-lise-Imobili-ria-com-Pandas-2be4a6a46085806d88a2d86773d48d50?pvs=73)
+- Projeto desenvolvido em **Python (Pandas)** simulando uma análise de dados para uma **empresa do setor imobiliário**.  
+- Inclui etapas de **importação, análise exploratória (EDA)**, **limpeza e tratamento de dados**, além da criação de **colunas numéricas e categóricas**.  
+- Aplicação prática de **feature engineering**, **remoção de inconsistências**, **filtros condicionais** e **exportação de dados limpos** em formato CSV.  
+- Base pronta para uso em **modelos de Machine Learning de precificação de imóveis**.  
+
+---
+
 ### 🧾 [Relatório de Negócios – Black Friday (SQL + Google Sheets)](https://abrir.link/LlDIh)
 - Projeto desenvolvido durante a **Formação SQL da Alura**.  
 - Criação de **consultas SQL** para comparar médias de vendas entre anos e medir o **crescimento percentual** durante a Black Friday.  
 - Utilização do **Google Sheets** para **visualização e análise dos resultados**.  
 - Insights sobre **fornecedores com baixo desempenho (NebulaNetworks)** e **categorias com maior crescimento**, como **Esportes e Alimentos**.  
-- Demonstração prática do uso de **CTEs (WITH)**, funções de agregação e cálculos de variação percentual.  
 
 ---
 
@@ -91,4 +98,4 @@ Tenho experiência prática com **SQL**, **Excel Avançado**, **Power BI**, **ET
 ---
 
 ⭐ *Sinta-se à vontade para explorar meus projetos e deixar um feedback!*  
-📊 *Cada análise representa um passo na minha evolução como Analista de Dados.*  
+📊 *Cada análise representa um passo na minha evolução como Analista de Dados.*
